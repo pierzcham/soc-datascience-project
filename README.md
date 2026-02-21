@@ -20,7 +20,7 @@ this space is for a brief summary of your project.
 
 ## Presentation
 
-Our presentation can be found [here](presentation/presentation.html).
+Our presentation can be found [here](presentation/presentation.Rmd).
 
 ## Data
 
